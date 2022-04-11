@@ -1,4 +1,5 @@
 // add a.dart
 class c {
-  String cTitle;
+  late String cTitle;
+  late String cAge;
 }
